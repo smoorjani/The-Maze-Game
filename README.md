@@ -6,5 +6,7 @@ Left Shift to jetpack
 
 # Blindness Rules
 Easy - The spotlight will follow you
+
 Medium - Move your mouse to follow your character
+
 Hard- Full blindness
